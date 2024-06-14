@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_VISION  MISSION</name>
+   <tag></tag>
+   <elementGuidId>24151959-e5a3-4521-a36d-96ae10bb00f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rrc-page-wrapper']/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^VISION &amp; MISSION$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1054c150-5d80-43d0-97f8-1be70979c596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gdlr-core-tab-item-title </value>
+      <webElementGuid>3ff57856-ca21-44bc-9772-c3664b6c832a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tab-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>07af44b1-6965-4b41-8889-5cfb8e73df63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VISION &amp; MISSION</value>
+      <webElementGuid>6329e363-3ce3-41fb-bac3-29e67946a912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rrc-page-wrapper&quot;)/div[@class=&quot;gdlr-core-page-builder-body&quot;]/div[@class=&quot;gdlr-core-pbf-section&quot;]/div[@class=&quot;gdlr-core-pbf-section-container gdlr-core-container clearfix&quot;]/div[@class=&quot;gdlr-core-pbf-element&quot;]/div[@class=&quot;gdlr-core-blog-item gdlr-core-item-pdb clearfix  gdlr-core-style-blog-image&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper-content gdlr-core-js&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper-container clearfix gdlr-core-container&quot;]/div[@class=&quot;gdlr-core-pbf-element&quot;]/div[@class=&quot;gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr&quot;]/div[@class=&quot;gdlr-core-tab-item-wrap&quot;]/div[@class=&quot;gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font&quot;]/div[@class=&quot;gdlr-core-tab-item-title&quot;]</value>
+      <webElementGuid>bb6e4cb7-1772-42af-8a04-d35131680ae7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rrc-page-wrapper']/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>7ffe21d0-931a-47f9-80ee-2532c703b876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/following::div[1]</value>
+      <webElementGuid>3a38c3cd-77de-4eee-ad7f-fa819e0f9a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NATURE CLUB'])[1]/following::div[16]</value>
+      <webElementGuid>f6c5e9de-5f31-4792-b719-8067acd4c07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVITIES'])[1]/preceding::div[1]</value>
+      <webElementGuid>1774039f-c3f0-406e-ae2a-34d049e30d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GALLERY'])[1]/preceding::div[2]</value>
+      <webElementGuid>6e22ef18-9515-4870-b4db-7c8037215faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VISION &amp; MISSION']/parent::*</value>
+      <webElementGuid>3ce39f94-9f5d-48b3-af5d-082590549ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>12733b8d-f1cf-46b6-bfa8-a9629d8ccfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'VISION &amp; MISSION' or . = 'VISION &amp; MISSION')]</value>
+      <webElementGuid>6884c67f-16b2-46e4-8a6b-dcdb5a3a1f04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

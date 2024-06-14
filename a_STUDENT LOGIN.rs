@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_STUDENT LOGIN</name>
+   <tag></tag>
+   <elementGuidId>e15b1814-f5cc-47be-ad35-c86f76676646</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-main-navigation-1']/li[10]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-item.menu-item-has-children.rrc-normal-menu.sfHover > a.rrc-top-bar-right-button.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;STUDENT LOGIN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>99d090a2-56a3-4fbb-b359-ee8a2ba2aee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rrc-top-bar-right-button button</value>
+      <webElementGuid>5261d6b2-407e-4ba3-bea6-7b2e932b7d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://erp.rrc.ac.in/studentlogin</value>
+      <webElementGuid>71036c10-962c-4964-86d3-51fb8b54b6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>STUDENT LOGIN</value>
+      <webElementGuid>77ce5abf-d754-41ad-adc8-309173eb8ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-main-navigation-1&quot;)/li[@class=&quot;menu-item menu-item-has-children rrc-normal-menu sfHover&quot;]/a[@class=&quot;rrc-top-bar-right-button button&quot;]</value>
+      <webElementGuid>9de9ea97-f47f-48f0-ad02-0c1a3210823b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-main-navigation-1']/li[10]/a</value>
+      <webElementGuid>12d6de51-5b2e-4a9e-8bee-5b00d609cd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'STUDENT LOGIN')])[2]</value>
+      <webElementGuid>4fc9cc07-62d6-4e15-acef-78f931d38958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STAFF LOGIN'])[2]/following::a[1]</value>
+      <webElementGuid>3c5e2385-6e62-4ad3-98cc-a1900abc0a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IIC'])[2]/following::a[2]</value>
+      <webElementGuid>98972080-dad3-4ef8-ad8f-125937d098c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://erp.rrc.ac.in/studentlogin'])[2]</value>
+      <webElementGuid>706bd3f9-e3a8-48d3-a9dd-4fdd11385529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[10]/a</value>
+      <webElementGuid>24fcc604-3c77-425a-8f0e-b36137591758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://erp.rrc.ac.in/studentlogin' and (text() = 'STUDENT LOGIN' or . = 'STUDENT LOGIN')]</value>
+      <webElementGuid>22ae9094-8b54-4d35-9feb-401c6d2c6064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

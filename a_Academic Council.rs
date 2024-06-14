@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Academic Council</name>
+   <tag></tag>
+   <elementGuidId>55153a5a-4cc7-427e-8172-e77cc75341d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-our-campus']/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Academic Council&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48523f6a-6c1f-42e2-b2ee-54de858d54ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>academic_council.php</value>
+      <webElementGuid>5f574e1d-ad44-46df-8370-5986d2f3dd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Academic Council</value>
+      <webElementGuid>6068539e-e0db-4903-8415-7ac40c61fa0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mm-0&quot;)/div[@class=&quot;rrc-body-wrapper clearfix  rrc-with-frame&quot;]/footer[1]/div[@class=&quot;rrc-footer-wrapper&quot;]/div[@class=&quot;rrc-footer-container rrc-container clearfix&quot;]/div[@class=&quot;rrc-footer-column rrc-item-pdlr rrc-column-15&quot;]/div[@id=&quot;gdlr-core-custom-menu-widget-2&quot;]/div[@class=&quot;menu-our-campus-container&quot;]/ul[@id=&quot;menu-our-campus&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>6d5f9e9c-0f02-4fc4-8556-9f55119a99c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-our-campus']/li[5]/a</value>
+      <webElementGuid>77f56f71-848e-4fa4-bfb9-236d4b5138c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Academic Council')])[2]</value>
+      <webElementGuid>57e1c0ed-0e2b-483b-8fbd-6529a52b854f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code of Conduct'])[4]/following::a[1]</value>
+      <webElementGuid>d1dbe064-7dca-4260-84a7-798dcd20339b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision, Mission &amp; Core Values'])[1]/following::a[2]</value>
+      <webElementGuid>cd6bc592-287f-42fd-9f4e-a50c689b5358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magazines'])[2]/preceding::a[1]</value>
+      <webElementGuid>e3f3cfcd-12a6-4437-a0de-f04e422f2338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academics'])[3]/preceding::a[2]</value>
+      <webElementGuid>4bc4fc62-a75d-4d27-acbf-d50d6494beba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'academic_council.php')])[2]</value>
+      <webElementGuid>6ebc8ee3-101d-4f0e-b023-a566d5c3052c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div[2]/div/div/ul/li[5]/a</value>
+      <webElementGuid>291f93fd-ed02-426e-95d3-35aa24387ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'academic_council.php' and (text() = 'Academic Council' or . = 'Academic Council')]</value>
+      <webElementGuid>4f4249cd-cde1-4166-ae62-cc373ed605d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

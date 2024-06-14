@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+rrc overall,Chrome 125.0.0.0,,,14-06-2024 14:55:26,14-06-2024 14:56:00,33.451s,FAILED
+,,,,,,,
+Test Cases/rajus college consolidated,Chrome 125.0.0.0,,,14-06-2024 14:55:51,14-06-2024 14:56:00,8.645s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:55:51,14-06-2024 14:55:53,1.394s,PASSED
+"navigateToUrl(""https://rrc.ac.in/"")",Chrome 125.0.0.0,,,14-06-2024 14:55:53,14-06-2024 14:55:59,6.169s,PASSED
+"click(findTestObject(""Object Repository/overall/Page_RAJAPALAYAM RAJUS COLLEGE  RAJAPALAYAM/a_Home""))",Chrome 125.0.0.0,,,14-06-2024 14:55:59,14-06-2024 14:56:00,1.061s,FAILED

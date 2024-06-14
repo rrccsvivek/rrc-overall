@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Examination</name>
+   <tag></tag>
+   <elementGuidId>bb6204f8-16e6-4335-a095-11fee75f4e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-main-navigation-1']/li[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.sub-menu > li.menu-item.sfHover > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-main-navigation-1 >> internal:role=link[name=&quot;Examination&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d052ec3f-2018-44b3-8489-aadb44e54c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>examination.php?id=</value>
+      <webElementGuid>64f008d3-830d-42de-8f55-7115997b24f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Examination</value>
+      <webElementGuid>6198c0ba-d8b5-4dc7-8851-343ab146a80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-main-navigation-1&quot;)/li[@class=&quot;menu-item menu-item-has-children rrc-normal-menu sfHover&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item sfHover&quot;]/a[1]</value>
+      <webElementGuid>dd928b78-cfca-4a34-bb06-96d82fd101a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-main-navigation-1']/li[4]/ul/li/a</value>
+      <webElementGuid>fccc71c8-93fa-4baa-b8f2-74b0a4bc2a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Examination')])[2]</value>
+      <webElementGuid>753f04b4-b449-46fc-b7e1-5eac96d46f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outcomes'])[2]/following::a[2]</value>
+      <webElementGuid>e6fa33a0-cd10-494b-9532-830b74493e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Finance'])[6]/following::a[3]</value>
+      <webElementGuid>9ec84710-3de3-4b3b-b91e-b645f1815533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code of Conduct'])[5]/preceding::a[1]</value>
+      <webElementGuid>7ed9e781-e022-497d-abba-bb72b928de2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rank Holders'])[2]/preceding::a[2]</value>
+      <webElementGuid>16a3c9ef-39e7-4834-9abb-ea19fb27175d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'examination.php?id=')])[2]</value>
+      <webElementGuid>8bd8ca60-739e-40a1-ab73-5ab06b15f8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>12710ba5-1b59-49d5-81ca-7d9dab974ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'examination.php?id=' and (text() = 'Examination' or . = 'Examination')]</value>
+      <webElementGuid>7d3efc2d-7d46-442e-948b-92b82d1bc428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

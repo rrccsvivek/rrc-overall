@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profile View</name>
+   <tag></tag>
+   <elementGuidId>79a1dbad-0751-4ca0-995c-e3a169a84bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rrc-page-wrapper']/div/div/div/div/div/div/div/div[2]/div[5]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(5) > .gdlr-core-personnel-list > .gdlr-core-personnel-list-content-wrap > .gdlr-core-personnel-list-button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>acf1b0cb-681c-4037-9a71-7455bb89ce44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gdlr-core-personnel-list-button gdlr-core-button</value>
+      <webElementGuid>08d0cec3-5541-47e9-8751-6f3923bba979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6947fcc5-390e-44c2-b99a-c76f01ab7451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>images/faculty_info/6.Vivek.pdf</value>
+      <webElementGuid>c3a7f44e-2eda-45c1-b1a0-00b30bda0967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile View</value>
+      <webElementGuid>110a8340-5010-4a8f-99fc-767cd535cab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rrc-page-wrapper&quot;)/div[@class=&quot;gdlr-core-page-builder-body&quot;]/div[@class=&quot;gdlr-core-pbf-section&quot;]/div[@class=&quot;gdlr-core-pbf-section-container gdlr-core-container clearfix&quot;]/div[@class=&quot;gdlr-core-pbf-element&quot;]/div[@class=&quot;gdlr-core-blog-item gdlr-core-item-pdb clearfix  gdlr-core-style-blog-image&quot;]/div[@class=&quot;gdlr-core-portfolio-item-holder gdlr-core-js-2 filter-container clearfix&quot;]/div[@class=&quot;gdlr-core-pbf-element&quot;]/div[@class=&quot;gdlr-core-personnel-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-personnel-item-style-medium gdlr-core-personnel-style-medium&quot;]/div[@class=&quot;gdlr-core-personnel-list-column  gdlr-core-column-40 gdlr-core-column-first gdlr-core-item-pdlr&quot;]/div[@class=&quot;gdlr-core-personnel-list clearfix&quot;]/div[@class=&quot;gdlr-core-personnel-list-content-wrap&quot;]/a[@class=&quot;gdlr-core-personnel-list-button gdlr-core-button&quot;]</value>
+      <webElementGuid>538d97f6-44ef-407b-ad53-2495d0c11576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rrc-page-wrapper']/div/div/div/div/div/div/div/div[2]/div[5]/div/div[2]/a</value>
+      <webElementGuid>e29a6b35-12fc-4366-830d-6521b9c62be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Profile View')])[5]</value>
+      <webElementGuid>8125af0a-3061-4db6-88b4-35c4cdda05f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assistant Professor'])[4]/following::a[1]</value>
+      <webElementGuid>b4efcb4f-cff6-4a7d-bd11-e372f9db9bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assistant Professor'])[5]/preceding::a[3]</value>
+      <webElementGuid>cc9be7b1-60f3-4fac-8ecb-e6c6168dd40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'images/faculty_info/6.Vivek.pdf')]</value>
+      <webElementGuid>384094cd-1d5b-431c-a046-36000668a898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a</value>
+      <webElementGuid>73500ce3-07cc-428f-88e1-9eed12aed80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'images/faculty_info/6.Vivek.pdf' and (text() = 'Profile View' or . = 'Profile View')]</value>
+      <webElementGuid>932a3d6f-b9c2-4ec6-8e98-8cc70610bca4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

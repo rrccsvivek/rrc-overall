@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Certificates_gdlr-core-portfolio-icon arr_f081bb</name>
+   <tag></tag>
+   <elementGuidId>aa8adc93-ab53-4397-ad99-4349bd6014af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mm-0']/div/div[4]/div[2]/div/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div/span/span/span/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .gdlr-core-portfolio-grid > .gdlr-core-portfolio-thumbnail > .gdlr-core-portfolio-thumbnail-image-wrap > .gdlr-core-image-overlay > .gdlr-core-image-overlay-content > .gdlr-core-portfolio-icon-wrap > .gdlr-core-lightgallery</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2f57125c-e059-4741-8495-3b4efd3268ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gdlr-core-portfolio-icon arrow_expand</value>
+      <webElementGuid>ce4deaa7-667d-4fc9-ad39-c013775a5e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mm-0&quot;)/div[@class=&quot;rrc-body-wrapper clearfix  rrc-with-frame&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper-content gdlr-core-js&quot;]/div[@class=&quot;gdlr-core-pbf-wrapper-container clearfix gdlr-core-container&quot;]/div[@class=&quot;gdlr-core-pbf-element&quot;]/div[@class=&quot;gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr&quot;]/div[@class=&quot;gdlr-core-tab-item-wrap&quot;]/div[@class=&quot;gdlr-core-tab-item-content-wrap clearfix&quot;]/div[@class=&quot;gdlr-core-tab-item-content  gdlr-core-active&quot;]/div[@class=&quot;gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top&quot;]/div[@class=&quot;gdlr-core-title-item-title-wrap&quot;]/div[@class=&quot;gdlr-core-item-list gdlr-core-item-pdlr gdlr-core-column-20&quot;]/div[@class=&quot;gdlr-core-portfolio-grid  gdlr-core-left-align gdlr-core-style-with-frame gdlr-core-js&quot;]/div[@class=&quot;gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon&quot;]/div[@class=&quot;gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover&quot;]/span[@class=&quot;gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay gdlr-core-js&quot;]/span[@class=&quot;gdlr-core-image-overlay-content&quot;]/span[@class=&quot;gdlr-core-portfolio-icon-wrap&quot;]/a[@class=&quot;gdlr-core-lightgallery gdlr-core-js&quot;]/i[@class=&quot;gdlr-core-portfolio-icon arrow_expand&quot;]</value>
+      <webElementGuid>65036d71-8d17-4cd7-a88a-969ee2bf8d6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mm-0']/div/div[4]/div[2]/div/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div/span/span/span/a/i</value>
+      <webElementGuid>03eb8635-2147-4c34-a95f-603fa22a71a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/span/span/span/a/i</value>
+      <webElementGuid>d2791ab2-2d00-4e53-84c4-2911b7d3a805</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

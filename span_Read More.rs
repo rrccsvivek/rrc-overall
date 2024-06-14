@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Read More</name>
+   <tag></tag>
+   <elementGuidId>305b4a88-a52f-4b1c-8abc-4984aaf8f7d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='gdlr-core-button-id-66813']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.gdlr-core-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Read More &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce7292f8-c981-40cb-9fd8-f926570d46a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gdlr-core-content</value>
+      <webElementGuid>ee667fce-94d2-42ec-b94f-8f637dc13af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read More</value>
+      <webElementGuid>a84e1c8d-7a6c-4c85-a0d5-85a7ac7930ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gdlr-core-button-id-66813&quot;)/span[@class=&quot;gdlr-core-content&quot;]</value>
+      <webElementGuid>50021340-b863-4ffe-af85-e97e52b1e344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='gdlr-core-button-id-66813']/span</value>
+      <webElementGuid>7ef27726-2006-4e15-a713-b3581279b4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Our College'])[1]/following::span[1]</value>
+      <webElementGuid>88c29dfe-3574-48ec-b7ea-67d0638598d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANNOUNCEMENT'])[1]/following::span[1]</value>
+      <webElementGuid>da82eb5f-f53f-4d94-bdfe-e89e5a001a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Payment'])[1]/preceding::span[1]</value>
+      <webElementGuid>fabbd4bb-b439-4098-baf4-746864ec29be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library'])[1]/preceding::span[1]</value>
+      <webElementGuid>762d2f11-4e26-4e01-9326-35d845741e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read More']/parent::*</value>
+      <webElementGuid>5211440b-bf64-4273-889c-2e215bf452e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span</value>
+      <webElementGuid>900f2e31-6929-41cd-bbb1-758e523b8a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Read More' or . = 'Read More')]</value>
+      <webElementGuid>a1f8e943-e789-4f3d-a81d-cc0045f38b1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
